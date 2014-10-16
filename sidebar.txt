@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acd:home|Door43 (acd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acd|d43-acd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acd/archive/master.zip|d43-acd.zip]]
+
+**Recent Changes**
+{{changes>ns = acd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acd|Ethnologue data]]
+
